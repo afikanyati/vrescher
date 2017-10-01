@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonic Relativity", "Assembly-CSharp.csproj", "{A98E6C2B-B6D5-9B30-BEFE-77A76807A914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonic Relativity", "Assembly-CSharp-Editor.csproj", "{BEC85701-246D-9905-2C0C-0265D167481B}"
+EndProject
+Project("{D4EE9EAD-7D4F-3600-AFB6-4DF99FE351B1}") = "Sonic Relativity", "Assembly-UnityScript.unityproj", "{EDAC26C6-13D5-F2DD-B4B5-40030F0B0948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98E6C2B-B6D5-9B30-BEFE-77A76807A914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98E6C2B-B6D5-9B30-BEFE-77A76807A914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98E6C2B-B6D5-9B30-BEFE-77A76807A914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98E6C2B-B6D5-9B30-BEFE-77A76807A914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC85701-246D-9905-2C0C-0265D167481B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC85701-246D-9905-2C0C-0265D167481B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC85701-246D-9905-2C0C-0265D167481B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC85701-246D-9905-2C0C-0265D167481B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAC26C6-13D5-F2DD-B4B5-40030F0B0948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAC26C6-13D5-F2DD-B4B5-40030F0B0948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAC26C6-13D5-F2DD-B4B5-40030F0B0948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAC26C6-13D5-F2DD-B4B5-40030F0B0948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
